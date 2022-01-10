@@ -1,7 +1,7 @@
 ### This is a blog site created using React.
 
 ### To Run the WebApp:
-1.> Clone the project using the command `https://github.com/udit-shokeen/blog-site-react.git`
+1.> Clone the project using the command `git clone https://github.com/udit-shokeen/blog-site-react.git`
 2.> Install all the dependencies using `npm install`.
 3.> In the project directory, start the development server & the json-server using:
     Start react app using: `npm start`
